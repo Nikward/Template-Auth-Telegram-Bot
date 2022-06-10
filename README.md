@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SergeyIvanovDevelop/Template-Auth-Telegram-Bot">
-    <img alt="Template-Auth-Telegram-Bot" src="./resources/logo.png" width="280" height="280"/>
+    <img alt="Template-Auth-Telegram-Bot" src="./resources/logo.png" width="400" height="400"/>
   </a>
 </p>
 <h1 align="center">
@@ -31,7 +31,7 @@ pip3 install -r ./requirements.txt
 
 **Step 4**<br>
 
-4. Get a token for your bot on the site `https://romua1d.ru/kak-poluchit-token-bota-telegram-api/` and put it in [bot.py](./bot.py):
+4. Get a token for your bot on the [site](https://romua1d.ru/kak-poluchit-token-bota-telegram-api/) and put it in [bot.py](./bot.py):
 
 ```
 	- token='<yout_telegram_bot_token>'
@@ -44,10 +44,10 @@ pip3 install -r ./requirements.txt
 
 **:clapper: Example using (GIF):**<br>
 
-This animation demonstrates scenarios for using the Template-Auth-Telegram-Bot.<br>
+This animation demonstrates scenarios for using the `Template-Auth-Telegram-Bot`.<br>
 
 <p align="center">
-  <img src="./resources/Template-Auth-Telegram-Bot.gif" alt="animated" />
+<img src="./resources/Template-Auth-Telegram-Bot.gif" alt="animated" />
 </p>
 
 ### :bookmark_tabs: Licence ###

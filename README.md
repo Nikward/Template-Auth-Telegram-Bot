@@ -52,3 +52,5 @@ This animation demonstrates scenarios for using the `Template-Auth-Telegram-Bot`
 
 ### :bookmark_tabs: Licence ###
 Template-Auth-Telegram-Bot is [CC BY-NC-SA 3.0 licensed](./LICENSE).
+
+26/11/2022
